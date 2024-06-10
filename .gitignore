@@ -80,6 +80,25 @@ venv.bak/
 *.tmp
 *.pid
 
+# Metasploit
+metasploit-framework/
+*.rc
+*.msf4
+
+# Nmap
+*.nmap
+*.gnmap
+*.xml
+
+# Nikto
+output/
+
+# Gobuster
+*.gobuster
+
+# Hydra
+hydra.restore
+
 # Specific files related to this project
 Audit_de_sécurité_par_l_IA_Chat_GPT-4o.docx
 Markmap_Audit_Securite_ChatGPT.html
