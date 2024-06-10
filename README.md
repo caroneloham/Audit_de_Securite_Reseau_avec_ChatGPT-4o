@@ -85,11 +85,11 @@ hydra -l [username] -P /path/to/passwords.txt [target] http-post-form "/login.ph
 ---
 
 👤 **Contributeurs**
-- [Votre Nom](https://github.com/caroneloham)
+- [Eloham Caron](https://github.com/caroneloham)
 
 ---
 
 📫 **Contact**
-- Email : [votre.email@example.com](mailto:eloham.caron@gmail.com)
+- Email : [eloham.caron@gmail.com](mailto:eloham.caron@gmail.com)
 
 Merci d'avoir consulté ce dépôt ! Si vous avez des questions ou des suggestions, n'hésitez pas à me contacter.
