@@ -30,41 +30,41 @@ L'audit suit la méthode PTES et comprend les étapes suivantes :
 ## 💻 Commandes Utilisées
 
 ### 🔍 Reconnaissance
-
+```bash
 nmap -sV
-
+```
 ### 📁 Exploration des Répertoires
-
+```bash
 gobuster dir -u http://[target] -w /usr/share/wordlists/dirb/common.txt
 curl http://[target]/robots.txt
-
+```
 ### 🛠️ Utilisation d'Outils
 
 #### Metasploit
-
+```bash
 msfconsole
 search exploit
 use exploit/multi/http/[exploit_name]
 set RHOST [target_ip]
 run
-
+```
 #### SecList
-
+```bash
 apt-get install seclists
-
+```
 #### Gobuster
-
+```bash
 apt-get install gobuster
 gobuster dir -u http://[target] -w /usr/share/wordlists/dirb/common.txt
-
+```
 #### Curl
-
+```bash
 curl -L http://[target]
-
+```
 #### Hydra
-
+```bash
 hydra -l [username] -P /path/to/passwords.txt [target] http-post-form "/login.php:user=^USER^&pass=^PASS^:F=incorrect"
-
+```
 ## 🤔 Réflexions sur l'IA en Cybersécurité
 
 - **Risques Engendrés** : Automatisation des attaques par des cybercriminels.
