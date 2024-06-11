@@ -1,9 +1,12 @@
 # 🛡️ Audit de Sécurité Réseau avec ChatGPT-4
-![Nmap](https://img.shields.io/badge/Nmap-0078D7?style=flat-square&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-0F0F0F?style=flat-square&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-23A8D9?style=flat-square&logo=hydra&logoColor=white)
-![Gobuster](https://img.shields.io/badge/Gobuster-F05032?style=flat-square&logo=gobuster&logoColor=white)
+[![Nmap](https://img.shields.io/badge/Nmap-0078D7?style=flat-square&logo=nmap&logoColor=white)](https://nmap.org/)
+[![Metasploit](https://img.shields.io/badge/Metasploit-0F0F0F?style=flat-square&logo=metasploit&logoColor=white)](https://www.metasploit.com/)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
+[![Hydra](https://img.shields.io/badge/Hydra-23A8D9?style=flat-square&logo=hydra&logoColor=white)](https://github.com/vanhauser-thc/thc-hydra)
+[![Gobuster](https://img.shields.io/badge/Gobuster-F05032?style=flat-square&logo=gobuster&logoColor=white)](https://github.com/OJ/gobuster)
+[![Nikto](https://img.shields.io/badge/Nikto-FFA500?style=flat-square&logo=nikto&logoColor=white)](https://cirt.net/Nikto2)
+[![Exploit DB](https://img.shields.io/badge/Exploit--DB-6C757D?style=flat-square&logo=exploitdb&logoColor=white)](https://www.exploit-db.com/)
+
 
 
 <img src="img/Ia.png" alt="Audit de Sécurité" width="200" />
