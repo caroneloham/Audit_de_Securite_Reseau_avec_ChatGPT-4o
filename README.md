@@ -1,11 +1,11 @@
 # 🛡️ Audit de Sécurité Réseau avec ChatGPT-4
-<img src="img/Ia.png" alt="Audit de Sécurité" width="200" />
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/username/repo-name)
 ![GitHub contributors](https://img.shields.io/github/contributors/username/repo-name)
 ![GitHub stars](https://img.shields.io/github/stars/username/repo-name?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/username/repo-name?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/username/repo-name)
-
+<img src="img/Ia.png" alt="Audit de Sécurité" width="200" />
 ## 📝 Description
 
 Ce dépôt contient un rapport détaillé sur un audit de sécurité réseau réalisé en utilisant l'intelligence artificielle ChatGPT-4. Le document inclut la méthode PTES (Penetration Testing Execution Standard), les outils et commandes utilisés pour l'audit, ainsi que des réflexions sur l'usage de l'IA en cybersécurité.
