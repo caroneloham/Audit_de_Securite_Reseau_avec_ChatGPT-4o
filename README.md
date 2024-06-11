@@ -1,5 +1,5 @@
 # 🛡️ Audit de Sécurité Réseau avec ChatGPT-4
-
+![Audit de Sécurité](img/Ia.png)
 ![GitHub repo size](https://img.shields.io/github/repo-size/username/repo-name)
 ![GitHub contributors](https://img.shields.io/github/contributors/username/repo-name)
 ![GitHub stars](https://img.shields.io/github/stars/username/repo-name?style=social)
