@@ -1,9 +1,10 @@
 # 🛡️ Audit de Sécurité Réseau avec ChatGPT-4
-![GitHub repo size](https://img.shields.io/github/repo-size/username/repo-name)
-![GitHub contributors](https://img.shields.io/github/contributors/username/repo-name)
-![GitHub stars](https://img.shields.io/github/stars/username/repo-name?style=social)
-![GitHub forks](https://img.shields.io/github/forks/username/repo-name?style=social)
-![GitHub issues](https://img.shields.io/github/issues/username/repo-name)
+![Nmap](https://img.shields.io/badge/Nmap-0078D7?style=flat-square&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-0F0F0F?style=flat-square&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-23A8D9?style=flat-square&logo=hydra&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-F05032?style=flat-square&logo=gobuster&logoColor=white)
+
 
 <img src="img/Ia.png" alt="Audit de Sécurité" width="200" />
 
