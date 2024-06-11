@@ -17,7 +17,7 @@ Ce dépôt contient un rapport détaillé sur un audit de sécurité réseau ré
 
 ## 📂 Contenu du Dépôt
 
-- `Audit_de_sécurité_par_l_IA_Chat_GPT-4o.docx` : Le rapport complet de l'audit de sécurité.
+- `Audit_de_securite_Chat_Gpt_4o_router.docx` : Le rapport complet de l'audit de sécurité.
 - `Markmap_Audit_Securite_ChatGPT.html` : Un Markmap détaillant les différentes sections et commandes utilisées dans le rapport.
 
 ## 🛠️ Méthodologie
