@@ -85,7 +85,7 @@ hydra -l [username] -P /path/to/passwords.txt [target] http-post-form "/login.ph
 
 ## 📄 License
 
-[Préciser la licence de votre choix, par exemple, MIT License]
+Ce projet est sous licence [Licence de Pentest](./LICENSE.md). En utilisant ce repository, vous acceptez les termes et conditions de cette licence.
 
 ---
 
