@@ -1,9 +1,6 @@
+# 🛡️ MIT License
 
-# 🛡️ Licence de Pentest
-
-Ce repository contient des scripts et des outils de test d'intrusion (pentest) destinés à des fins éducatives et de recherche uniquement. Toute utilisation des contenus de ce repository doit se conformer aux termes et conditions décrits ci-dessous.
-
-## Conditions d'Utilisation
+## Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 1. **Autorisation Préalable :**
    - Vous devez obtenir toutes les autorisations nécessaires de la part des propriétaires ou des responsables des systèmes que vous envisagez de tester avant d'utiliser les outils ou les scripts de ce repository.
